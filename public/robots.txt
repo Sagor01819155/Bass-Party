@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bassparty.free.nf/sitemap.xml

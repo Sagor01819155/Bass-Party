@@ -1,0 +1,6 @@
+{
+  "name": "Bass Party",
+  "description": "Bass Party - Real-time synchronized private music party rooms with synchronized YouTube playback, boombox party animations, and instant friend invites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
